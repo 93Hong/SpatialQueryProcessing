@@ -1,5 +1,11 @@
 # Spatial Query Processing
 
+## Development Period
+- 2017.01 ~ 2017.02
+
+## Development Language & Tools
+- Language : Java, C++
+- Tools : Eclipse, Visual Studio, linux,OpenStreetMap
 
 ## Motivation
 - For example a videographer wants to record a movie using a drone
